@@ -1,6 +1,6 @@
 # ansible-azion
 
-Ansible modules for manage resources on Azion REST API.
+Ansible modules for manage resources on Azion API.
 
 ## Requirements
 
